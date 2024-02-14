@@ -15,3 +15,15 @@ class Calculations:
     def get_history(cls) -> list[Calculation]:
         '''Returns the calculation history'''
         return cls.history
+
+    @classmethod
+    def clear_history(cls):
+        '''Removes all elements from the list for testing'''
+        cls.history.clear()
+
+    @classmethod
+    def get_latest(cls) -> Calculation:
+        '''Returns the lastest calculation history'''
+        if cls.history:
+            return cls.history[-1]
+        return None

@@ -14,4 +14,6 @@ def multiplication(a,b):
 
 def division(a,b):
     '''Returns the quotient of the two values'''
+    if b == 0:
+        raise ZeroDivisionError("Cannot divide by zero")
     return a / b
