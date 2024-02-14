@@ -1,3 +1,5 @@
+# pylint: disable=too-few-public-methods
+
 '''General Calculation Class'''
 class Calculation:
     '''Represents the instance of the two values and operation being call'''
