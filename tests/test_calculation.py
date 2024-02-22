@@ -2,7 +2,7 @@
 import pytest
 from calculator import Calculator
 from calculator.calculation import Calculation
-#from calculator.operations import division
+from calculator.operations import division
 
 def test_add():
     '''Test that addition function works'''
@@ -42,10 +42,10 @@ def test_calc_operations(a, b, operation, expected):
         # Otherwise, assert that the result matches the expected value
         assert calc.perform() == expected, f"Failed {operation} operation with {a} and {b}"
 
-#def test_divide_by_zero():
-#    '''
-#    A Test to form a divide by zero meant to raise the Divide by Zero Error
-#    '''
-#    calc = Calculation(10, 0, div)
-#    with pytest.raises(ValueError, match="Cannot divide by zero"):
-#        calc.perform()
+def test_divide_by_zero():
+    '''
+    A Test to form a divide by zero meant to raise the Divide by Zero Error
+    '''
+    calc = Calculation(10, 0, division)
+    with pytest.raises(ZeroDivisionError, match="Cannot divide by zero"):
+        calc.perform()
