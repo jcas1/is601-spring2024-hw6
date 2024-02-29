@@ -1,5 +1,8 @@
 '''Testing Commands'''
-from app.commands.operations import AddCommand, SubtractCommand, MutiplyCommand, DivisionCommand
+from app.commands.addition import AddCommand
+from app.commands.subtraction import SubtractCommand
+from app.commands.multiplication import MutiplyCommand
+from app.commands.division import DivisionCommand
 
 def test_add_command():
     '''Testing Add Command'''

@@ -3,7 +3,10 @@
 '''App Class that displays the commands available to the user'''
 import sys
 from app.commands import CommandHandler
-from app.commands.operations import AddCommand, SubtractCommand, MutiplyCommand, DivisionCommand
+from app.commands.addition import AddCommand
+from app.commands.subtraction import SubtractCommand
+from app.commands.multiplication import MutiplyCommand
+from app.commands.division import DivisionCommand
 
 class App:
     '''Initializes App Class'''
