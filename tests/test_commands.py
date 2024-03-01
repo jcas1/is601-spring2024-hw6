@@ -1,8 +1,8 @@
 '''Testing Commands'''
-from app.commands.addition import AddCommand
-from app.commands.subtraction import SubtractCommand
-from app.commands.multiplication import MutiplyCommand
-from app.commands.division import DivisionCommand
+from app.plugins.addition import AddCommand
+from app.plugins.subtraction import SubtractCommand
+from app.plugins.multiplication import MutiplyCommand
+from app.plugins.division import DivisionCommand
 
 def test_add_command():
     '''Testing Add Command'''

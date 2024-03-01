@@ -1,7 +1,10 @@
 #pylint: disable=unnecessary-pass
 '''CommandHandler'''
-class Command:
+from abc import ABC, abstractmethod
+
+class Command(ABC):
     '''A base class for commands that provides an execute methods using x and y as parameters'''
+    @abstractmethod
     def execute(self, x, y):
         '''
         Executes a command with its given parameters
@@ -23,7 +26,7 @@ class CommandHandler:
     def execute_command(self, command, x, y):
         '''Used to execute a command using x and y'''
         try:
-            return self.operations[command].execute(self, x, y)
+            return self.operations[command].execute(x, y)
         except KeyError:
             print("Command does not exist")
             return None
