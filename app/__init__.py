@@ -1,10 +1,14 @@
 # pylint: disable=line-too-long
 # pylint: disable=broad-except
 '''App Class that displays the commands available to the user'''
+#import os
 import sys
 import pkgutil
 import importlib
 from app.commands import CommandHandler, Command
+#from dotenv import load_dotenv
+#import logging
+#import logging.config
 
 class App:
     '''Initializes App Class'''
