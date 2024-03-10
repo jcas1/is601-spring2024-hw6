@@ -1,0 +1,1767 @@
+2024-03-10 17:44:38,463 - root - INFO - Logging configured.
+2024-03-10 17:44:38,463 - root - INFO - Environment variables loaded.
+2024-03-10 17:44:38,466 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 17:44:38,466 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 17:44:38,466 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 17:44:38,466 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 17:44:47,693 - root - INFO - Hello, World!
+2024-03-10 17:44:47,693 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 17:45:17,640 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 17:46:16,181 - root - INFO - User requested to exit
+2024-03-10 18:09:41,948 - root - INFO - Logging configured.
+2024-03-10 18:09:41,949 - root - INFO - Environment variables loaded.
+2024-03-10 18:09:41,952 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:09:41,952 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:09:41,952 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:09:41,952 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:09:45,080 - root - WARNING - invalid input format from user exity
+2024-03-10 18:09:47,288 - root - INFO - User requested to exit
+2024-03-10 18:10:56,777 - root - INFO - Logging configured.
+2024-03-10 18:10:56,778 - root - INFO - Environment variables loaded.
+2024-03-10 18:10:56,778 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:10:56,778 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:10:56,778 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:10:56,779 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:10:56,779 - root - INFO - User requested to exit
+2024-03-10 18:10:56,781 - root - INFO - Logging configured.
+2024-03-10 18:10:56,782 - root - INFO - Environment variables loaded.
+2024-03-10 18:10:56,782 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:10:56,782 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:10:56,782 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:10:56,782 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:10:56,782 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:10:56,782 - root - WARNING - invalid input format from user 2
+2024-03-10 18:10:56,782 - root - WARNING - invalid input format from user 2
+2024-03-10 18:10:56,782 - root - INFO - User requested to exit
+2024-03-10 18:10:56,785 - root - INFO - Logging configured.
+2024-03-10 18:10:56,785 - root - INFO - Environment variables loaded.
+2024-03-10 18:10:56,785 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:10:56,786 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:10:56,786 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:10:56,786 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:10:56,786 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:10:56,786 - root - INFO - User requested to exit
+2024-03-10 18:10:56,788 - root - INFO - Logging configured.
+2024-03-10 18:10:56,788 - root - INFO - Environment variables loaded.
+2024-03-10 18:10:56,819 - root - INFO - Logging configured.
+2024-03-10 18:10:56,820 - root - INFO - Environment variables loaded.
+2024-03-10 18:10:56,820 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:10:56,820 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:10:56,820 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:10:56,820 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:10:56,820 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:10:56,820 - root - INFO - User requested to exit
+2024-03-10 18:10:56,823 - root - INFO - Logging configured.
+2024-03-10 18:10:56,824 - root - INFO - Environment variables loaded.
+2024-03-10 18:10:56,824 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:10:56,824 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:10:56,824 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:10:56,824 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:10:56,824 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:10:56,824 - root - INFO - User requested to exit
+2024-03-10 18:10:56,826 - root - INFO - Logging configured.
+2024-03-10 18:10:56,827 - root - INFO - Environment variables loaded.
+2024-03-10 18:10:56,827 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:10:56,827 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:10:56,827 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:10:56,827 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:10:56,827 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:10:56,827 - root - INFO - User requested to exit
+2024-03-10 18:11:16,397 - root - INFO - Logging configured.
+2024-03-10 18:11:16,397 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:16,397 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:16,398 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:16,398 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:16,398 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:16,398 - root - INFO - User requested to exit
+2024-03-10 18:11:16,399 - root - INFO - Logging configured.
+2024-03-10 18:11:16,400 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:16,400 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:16,400 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:16,400 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:16,400 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:16,400 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:11:16,400 - root - WARNING - invalid input format from user 2
+2024-03-10 18:11:16,400 - root - WARNING - invalid input format from user 2
+2024-03-10 18:11:16,401 - root - INFO - User requested to exit
+2024-03-10 18:11:16,402 - root - INFO - Logging configured.
+2024-03-10 18:11:16,402 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:16,402 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:16,402 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:16,403 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:16,403 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:16,403 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:11:16,403 - root - INFO - User requested to exit
+2024-03-10 18:11:16,405 - root - INFO - Logging configured.
+2024-03-10 18:11:16,405 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:16,422 - root - INFO - Logging configured.
+2024-03-10 18:11:16,422 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:16,423 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:16,423 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:16,423 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:16,423 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:16,423 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:11:16,423 - root - INFO - User requested to exit
+2024-03-10 18:11:16,425 - root - INFO - Logging configured.
+2024-03-10 18:11:16,425 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:16,425 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:16,425 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:16,426 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:16,426 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:16,426 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:11:16,426 - root - INFO - User requested to exit
+2024-03-10 18:11:16,427 - root - INFO - Logging configured.
+2024-03-10 18:11:16,428 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:16,428 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:16,428 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:16,428 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:16,428 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:16,428 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:11:16,428 - root - INFO - User requested to exit
+2024-03-10 18:11:19,336 - root - INFO - Logging configured.
+2024-03-10 18:11:19,336 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:19,337 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:19,337 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:19,337 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:19,337 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:19,337 - root - INFO - User requested to exit
+2024-03-10 18:11:19,338 - root - INFO - Logging configured.
+2024-03-10 18:11:19,339 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:19,339 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:19,339 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:19,339 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:19,339 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:19,339 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:11:19,339 - root - WARNING - invalid input format from user 2
+2024-03-10 18:11:19,339 - root - WARNING - invalid input format from user 2
+2024-03-10 18:11:19,339 - root - INFO - User requested to exit
+2024-03-10 18:11:19,340 - root - INFO - Logging configured.
+2024-03-10 18:11:19,341 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:19,341 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:19,341 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:19,341 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:19,341 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:19,341 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:11:19,341 - root - INFO - User requested to exit
+2024-03-10 18:11:19,342 - root - INFO - Logging configured.
+2024-03-10 18:11:19,342 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:19,363 - root - INFO - Logging configured.
+2024-03-10 18:11:19,363 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:19,364 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:19,364 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:19,364 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:19,364 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:19,364 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:11:19,364 - root - INFO - User requested to exit
+2024-03-10 18:11:19,366 - root - INFO - Logging configured.
+2024-03-10 18:11:19,366 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:19,366 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:19,366 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:19,366 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:19,366 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:19,366 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:11:19,366 - root - INFO - User requested to exit
+2024-03-10 18:11:19,368 - root - INFO - Logging configured.
+2024-03-10 18:11:19,369 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:19,369 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:19,369 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:19,369 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:19,369 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:19,369 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:11:19,369 - root - INFO - User requested to exit
+2024-03-10 18:11:21,731 - root - INFO - Logging configured.
+2024-03-10 18:11:21,732 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:21,732 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:21,732 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:21,732 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:21,732 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:21,732 - root - INFO - User requested to exit
+2024-03-10 18:11:21,734 - root - INFO - Logging configured.
+2024-03-10 18:11:21,735 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:21,736 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:21,736 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:21,736 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:21,737 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:21,737 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:11:21,737 - root - WARNING - invalid input format from user 2
+2024-03-10 18:11:21,737 - root - WARNING - invalid input format from user 2
+2024-03-10 18:11:21,737 - root - INFO - User requested to exit
+2024-03-10 18:11:21,740 - root - INFO - Logging configured.
+2024-03-10 18:11:21,740 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:21,741 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:21,741 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:21,741 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:21,741 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:21,741 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:11:21,741 - root - INFO - User requested to exit
+2024-03-10 18:11:21,743 - root - INFO - Logging configured.
+2024-03-10 18:11:21,743 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:21,770 - root - INFO - Logging configured.
+2024-03-10 18:11:21,770 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:21,771 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:21,771 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:21,771 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:21,771 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:21,771 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:11:21,771 - root - INFO - User requested to exit
+2024-03-10 18:11:21,774 - root - INFO - Logging configured.
+2024-03-10 18:11:21,775 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:21,775 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:21,776 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:21,776 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:21,776 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:21,776 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:11:21,776 - root - INFO - User requested to exit
+2024-03-10 18:11:21,778 - root - INFO - Logging configured.
+2024-03-10 18:11:21,779 - root - INFO - Environment variables loaded.
+2024-03-10 18:11:21,779 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:11:21,779 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:11:21,779 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:11:21,779 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:11:21,779 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:11:21,779 - root - INFO - User requested to exit
+2024-03-10 18:12:28,142 - root - INFO - Logging configured.
+2024-03-10 18:12:28,143 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,143 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:12:28,143 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:12:28,143 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:12:28,143 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:12:28,143 - root - INFO - User requested to exit
+2024-03-10 18:12:28,146 - root - INFO - Logging configured.
+2024-03-10 18:12:28,146 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,146 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:12:28,146 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:12:28,146 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:12:28,147 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:12:28,147 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:12:28,147 - root - WARNING - invalid input format from user 2
+2024-03-10 18:12:28,147 - root - WARNING - invalid input format from user 2
+2024-03-10 18:12:28,147 - root - INFO - User requested to exit
+2024-03-10 18:12:28,148 - root - INFO - Logging configured.
+2024-03-10 18:12:28,149 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,149 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:12:28,149 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:12:28,149 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:12:28,149 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:12:28,149 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:12:28,149 - root - INFO - User requested to exit
+2024-03-10 18:12:28,151 - root - INFO - Logging configured.
+2024-03-10 18:12:28,151 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,177 - root - INFO - Logging configured.
+2024-03-10 18:12:28,178 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,178 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:12:28,178 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:12:28,178 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:12:28,178 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:12:28,178 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:12:28,178 - root - INFO - User requested to exit
+2024-03-10 18:12:28,183 - root - INFO - Logging configured.
+2024-03-10 18:12:28,183 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,183 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:12:28,183 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:12:28,183 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:12:28,184 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:12:28,184 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:12:28,184 - root - INFO - User requested to exit
+2024-03-10 18:12:28,186 - root - INFO - Logging configured.
+2024-03-10 18:12:28,187 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,187 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:12:28,187 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:12:28,187 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:12:28,187 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:12:28,188 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:12:28,188 - root - INFO - User requested to exit
+2024-03-10 18:12:28,190 - root - INFO - Logging configured.
+2024-03-10 18:12:28,191 - root - INFO - Environment variables loaded.
+2024-03-10 18:12:28,191 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:12:28,191 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:12:28,191 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:12:28,191 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:12:28,191 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:12:28,191 - root - INFO - User requested to exit
+2024-03-10 18:40:04,483 - root - INFO - Logging configured.
+2024-03-10 18:40:04,483 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,483 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:04,483 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:04,483 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:04,483 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:04,483 - root - INFO - User requested to exit
+2024-03-10 18:40:04,485 - root - INFO - Logging configured.
+2024-03-10 18:40:04,485 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,486 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:04,486 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:04,486 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:04,486 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:04,486 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:40:04,486 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:04,486 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:04,486 - root - INFO - User requested to exit
+2024-03-10 18:40:04,487 - root - INFO - Logging configured.
+2024-03-10 18:40:04,487 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,487 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:04,487 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:04,487 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:04,488 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:04,488 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:40:04,488 - root - INFO - User requested to exit
+2024-03-10 18:40:04,489 - root - INFO - Logging configured.
+2024-03-10 18:40:04,489 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,489 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,490 - root - INFO - Logging configured.
+2024-03-10 18:40:04,490 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,507 - root - INFO - Logging configured.
+2024-03-10 18:40:04,508 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,508 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:04,508 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:04,508 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:04,508 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:04,508 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:40:04,508 - root - INFO - User requested to exit
+2024-03-10 18:40:04,510 - root - INFO - Logging configured.
+2024-03-10 18:40:04,510 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,510 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:04,510 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:04,510 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:04,511 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:04,511 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:40:04,511 - root - INFO - User requested to exit
+2024-03-10 18:40:04,514 - root - INFO - Logging configured.
+2024-03-10 18:40:04,514 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,514 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:04,514 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:04,514 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:04,514 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:04,514 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:40:04,514 - root - INFO - User requested to exit
+2024-03-10 18:40:04,516 - root - INFO - Logging configured.
+2024-03-10 18:40:04,516 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:04,516 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:04,517 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:04,517 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:04,518 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:04,518 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:40:04,518 - root - INFO - User requested to exit
+2024-03-10 18:40:07,652 - root - INFO - Logging configured.
+2024-03-10 18:40:07,652 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,652 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:07,652 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:07,652 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:07,652 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:07,652 - root - INFO - User requested to exit
+2024-03-10 18:40:07,654 - root - INFO - Logging configured.
+2024-03-10 18:40:07,654 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,654 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:07,654 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:07,654 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:07,655 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:07,655 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:40:07,655 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:07,655 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:07,655 - root - INFO - User requested to exit
+2024-03-10 18:40:07,656 - root - INFO - Logging configured.
+2024-03-10 18:40:07,656 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,656 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:07,656 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:07,656 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:07,656 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:07,656 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:40:07,656 - root - INFO - User requested to exit
+2024-03-10 18:40:07,657 - root - INFO - Logging configured.
+2024-03-10 18:40:07,657 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,658 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,658 - root - INFO - Logging configured.
+2024-03-10 18:40:07,659 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,678 - root - INFO - Logging configured.
+2024-03-10 18:40:07,679 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,679 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:07,679 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:07,679 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:07,679 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:07,679 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:40:07,679 - root - INFO - User requested to exit
+2024-03-10 18:40:07,681 - root - INFO - Logging configured.
+2024-03-10 18:40:07,681 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,681 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:07,681 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:07,681 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:07,682 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:07,682 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:40:07,682 - root - INFO - User requested to exit
+2024-03-10 18:40:07,684 - root - INFO - Logging configured.
+2024-03-10 18:40:07,684 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,685 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:07,685 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:07,685 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:07,685 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:07,685 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:40:07,685 - root - INFO - User requested to exit
+2024-03-10 18:40:07,688 - root - INFO - Logging configured.
+2024-03-10 18:40:07,688 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:07,689 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:07,689 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:07,689 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:07,689 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:07,689 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:40:07,689 - root - INFO - User requested to exit
+2024-03-10 18:40:39,720 - root - INFO - Logging configured.
+2024-03-10 18:40:39,720 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,720 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:39,721 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:39,721 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:39,721 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:39,721 - root - INFO - User requested to exit
+2024-03-10 18:40:39,722 - root - INFO - Logging configured.
+2024-03-10 18:40:39,722 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,722 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:39,722 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:39,722 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:39,723 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:39,723 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:40:39,723 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:39,723 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:39,723 - root - INFO - User requested to exit
+2024-03-10 18:40:39,724 - root - INFO - Logging configured.
+2024-03-10 18:40:39,724 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,724 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:39,724 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:39,724 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:39,724 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:39,724 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:40:39,724 - root - INFO - User requested to exit
+2024-03-10 18:40:39,725 - root - INFO - Logging configured.
+2024-03-10 18:40:39,726 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,726 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,727 - root - INFO - Logging configured.
+2024-03-10 18:40:39,727 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,751 - root - INFO - Logging configured.
+2024-03-10 18:40:39,751 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,751 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:39,751 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:39,751 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:39,751 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:39,751 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:40:39,751 - root - INFO - User requested to exit
+2024-03-10 18:40:39,753 - root - INFO - Logging configured.
+2024-03-10 18:40:39,754 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,754 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:39,755 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:39,755 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:39,755 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:39,755 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:40:39,755 - root - INFO - User requested to exit
+2024-03-10 18:40:39,758 - root - INFO - Logging configured.
+2024-03-10 18:40:39,758 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,758 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:39,758 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:39,758 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:39,758 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:39,758 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:40:39,758 - root - INFO - User requested to exit
+2024-03-10 18:40:39,760 - root - INFO - Logging configured.
+2024-03-10 18:40:39,761 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:39,761 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:39,761 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:39,761 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:39,761 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:39,762 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:40:39,762 - root - INFO - User requested to exit
+2024-03-10 18:40:41,582 - root - INFO - Logging configured.
+2024-03-10 18:40:41,583 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,584 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:41,584 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:41,584 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:41,584 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:41,584 - root - INFO - User requested to exit
+2024-03-10 18:40:41,586 - root - INFO - Logging configured.
+2024-03-10 18:40:41,587 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,587 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:41,588 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:41,588 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:41,588 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:41,588 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:40:41,588 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:41,588 - root - WARNING - invalid input format from user 2
+2024-03-10 18:40:41,588 - root - INFO - User requested to exit
+2024-03-10 18:40:41,590 - root - INFO - Logging configured.
+2024-03-10 18:40:41,590 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,590 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:41,590 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:41,590 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:41,591 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:41,591 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:40:41,591 - root - INFO - User requested to exit
+2024-03-10 18:40:41,592 - root - INFO - Logging configured.
+2024-03-10 18:40:41,593 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,593 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,594 - root - INFO - Logging configured.
+2024-03-10 18:40:41,594 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,623 - root - INFO - Logging configured.
+2024-03-10 18:40:41,624 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,624 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:41,624 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:41,624 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:41,624 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:41,624 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:40:41,624 - root - INFO - User requested to exit
+2024-03-10 18:40:41,627 - root - INFO - Logging configured.
+2024-03-10 18:40:41,628 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,628 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:41,628 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:41,628 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:41,628 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:41,628 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:40:41,628 - root - INFO - User requested to exit
+2024-03-10 18:40:41,631 - root - INFO - Logging configured.
+2024-03-10 18:40:41,631 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,632 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:41,632 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:41,632 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:41,632 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:41,632 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:40:41,632 - root - INFO - User requested to exit
+2024-03-10 18:40:41,634 - root - INFO - Logging configured.
+2024-03-10 18:40:41,635 - root - INFO - Environment variables loaded.
+2024-03-10 18:40:41,635 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:40:41,635 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:40:41,635 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:40:41,635 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:40:41,635 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:40:41,635 - root - INFO - User requested to exit
+2024-03-10 18:46:26,079 - root - INFO - Logging configured.
+2024-03-10 18:46:26,080 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,080 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:46:26,080 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:46:26,080 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:46:26,080 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:46:26,080 - root - INFO - User requested to exit
+2024-03-10 18:46:26,081 - root - INFO - Logging configured.
+2024-03-10 18:46:26,081 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,082 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:46:26,082 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:46:26,082 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:46:26,082 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:46:26,082 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:46:26,082 - root - WARNING - invalid input format from user 2
+2024-03-10 18:46:26,082 - root - WARNING - invalid input format from user 2
+2024-03-10 18:46:26,082 - root - INFO - User requested to exit
+2024-03-10 18:46:26,083 - root - INFO - Logging configured.
+2024-03-10 18:46:26,083 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,083 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:46:26,083 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:46:26,083 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:46:26,083 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:46:26,084 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:46:26,084 - root - INFO - User requested to exit
+2024-03-10 18:46:26,084 - root - INFO - Logging configured.
+2024-03-10 18:46:26,085 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,085 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,086 - root - INFO - Logging configured.
+2024-03-10 18:46:26,086 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,124 - root - INFO - Logging configured.
+2024-03-10 18:46:26,124 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,124 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:46:26,124 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:46:26,124 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:46:26,124 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:46:26,124 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:46:26,124 - root - INFO - User requested to exit
+2024-03-10 18:46:26,126 - root - INFO - Logging configured.
+2024-03-10 18:46:26,126 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,126 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:46:26,126 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:46:26,126 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:46:26,126 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:46:26,127 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:46:26,127 - root - INFO - User requested to exit
+2024-03-10 18:46:26,128 - root - INFO - Logging configured.
+2024-03-10 18:46:26,128 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,128 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:46:26,128 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:46:26,129 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:46:26,129 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:46:26,129 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:46:26,129 - root - INFO - User requested to exit
+2024-03-10 18:46:26,131 - root - INFO - Logging configured.
+2024-03-10 18:46:26,131 - root - INFO - Environment variables loaded.
+2024-03-10 18:46:26,132 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:46:26,132 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:46:26,132 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:46:26,132 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:46:26,132 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:46:26,132 - root - INFO - User requested to exit
+2024-03-10 18:48:24,156 - root - INFO - Logging configured.
+2024-03-10 18:48:24,156 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,156 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,156 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,156 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,157 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,157 - root - INFO - User requested to exit
+2024-03-10 18:48:24,158 - root - INFO - Logging configured.
+2024-03-10 18:48:24,158 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,158 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,158 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,158 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,158 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,158 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:48:24,158 - root - WARNING - invalid input format from user 2
+2024-03-10 18:48:24,158 - root - WARNING - invalid input format from user 2
+2024-03-10 18:48:24,158 - root - INFO - User requested to exit
+2024-03-10 18:48:24,160 - root - INFO - Logging configured.
+2024-03-10 18:48:24,160 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,160 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,160 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,160 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,160 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,160 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:48:24,160 - root - INFO - User requested to exit
+2024-03-10 18:48:24,162 - root - INFO - Logging configured.
+2024-03-10 18:48:24,163 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,163 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,165 - root - INFO - Logging configured.
+2024-03-10 18:48:24,165 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,167 - root - INFO - Logging configured.
+2024-03-10 18:48:24,167 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,167 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,167 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,167 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,167 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,202 - root - INFO - Logging configured.
+2024-03-10 18:48:24,202 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,202 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,202 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,202 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,203 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,203 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:48:24,203 - root - INFO - User requested to exit
+2024-03-10 18:48:24,206 - root - INFO - Logging configured.
+2024-03-10 18:48:24,207 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,207 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,207 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,207 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,207 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,207 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:48:24,207 - root - INFO - User requested to exit
+2024-03-10 18:48:24,209 - root - INFO - Logging configured.
+2024-03-10 18:48:24,209 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,209 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,209 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,209 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,210 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,210 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:48:24,210 - root - INFO - User requested to exit
+2024-03-10 18:48:24,211 - root - INFO - Logging configured.
+2024-03-10 18:48:24,211 - root - INFO - Environment variables loaded.
+2024-03-10 18:48:24,212 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:48:24,212 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:48:24,212 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:48:24,212 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:48:24,212 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:48:24,212 - root - INFO - User requested to exit
+2024-03-10 18:50:00,952 - root - INFO - Logging configured.
+2024-03-10 18:50:00,952 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,952 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:00,952 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:00,953 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:00,953 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:00,953 - root - INFO - User requested to exit
+2024-03-10 18:50:00,955 - root - INFO - Logging configured.
+2024-03-10 18:50:00,955 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,955 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:00,955 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:00,955 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:00,955 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:00,955 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:50:00,955 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:00,955 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:00,955 - root - INFO - User requested to exit
+2024-03-10 18:50:00,956 - root - INFO - Logging configured.
+2024-03-10 18:50:00,957 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,957 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:00,957 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:00,957 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:00,957 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:00,957 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:50:00,957 - root - INFO - User requested to exit
+2024-03-10 18:50:00,958 - root - INFO - Logging configured.
+2024-03-10 18:50:00,958 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,959 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,959 - root - INFO - Logging configured.
+2024-03-10 18:50:00,960 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,993 - root - INFO - Logging configured.
+2024-03-10 18:50:00,993 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,993 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:00,993 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:00,993 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:00,994 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:00,994 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:50:00,994 - root - INFO - User requested to exit
+2024-03-10 18:50:00,995 - root - INFO - Logging configured.
+2024-03-10 18:50:00,996 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,996 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:00,996 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:00,996 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:00,996 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:00,996 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:50:00,996 - root - INFO - User requested to exit
+2024-03-10 18:50:00,997 - root - INFO - Logging configured.
+2024-03-10 18:50:00,998 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:00,998 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:00,998 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:00,998 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:00,998 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:00,998 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:50:00,998 - root - INFO - User requested to exit
+2024-03-10 18:50:00,999 - root - INFO - Logging configured.
+2024-03-10 18:50:00,999 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:01,000 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:01,000 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:01,000 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:01,000 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:01,000 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:50:01,000 - root - INFO - User requested to exit
+2024-03-10 18:50:35,993 - root - INFO - Logging configured.
+2024-03-10 18:50:35,993 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:35,993 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:35,994 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:35,994 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:35,994 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:35,994 - root - INFO - User requested to exit
+2024-03-10 18:50:35,995 - root - INFO - Logging configured.
+2024-03-10 18:50:35,996 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:35,996 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:35,996 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:35,996 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:35,996 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:35,996 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:50:35,996 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:35,996 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:35,996 - root - INFO - User requested to exit
+2024-03-10 18:50:35,997 - root - INFO - Logging configured.
+2024-03-10 18:50:35,997 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:35,998 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:35,998 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:35,998 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:35,998 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:35,998 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:50:35,998 - root - INFO - User requested to exit
+2024-03-10 18:50:35,999 - root - INFO - Logging configured.
+2024-03-10 18:50:35,999 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:35,999 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:36,001 - root - INFO - Logging configured.
+2024-03-10 18:50:36,001 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:36,018 - root - INFO - Logging configured.
+2024-03-10 18:50:36,018 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:36,018 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:36,018 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:36,019 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:36,019 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:36,019 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:50:36,019 - root - INFO - User requested to exit
+2024-03-10 18:50:36,020 - root - INFO - Logging configured.
+2024-03-10 18:50:36,020 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:36,020 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:36,020 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:36,020 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:36,020 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:36,020 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:50:36,021 - root - INFO - User requested to exit
+2024-03-10 18:50:36,022 - root - INFO - Logging configured.
+2024-03-10 18:50:36,023 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:36,023 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:36,023 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:36,024 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:36,024 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:36,024 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:50:36,024 - root - INFO - User requested to exit
+2024-03-10 18:50:36,026 - root - INFO - Logging configured.
+2024-03-10 18:50:36,026 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:36,026 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:36,026 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:36,026 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:36,026 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:36,027 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:50:36,027 - root - INFO - User requested to exit
+2024-03-10 18:50:40,225 - root - INFO - Logging configured.
+2024-03-10 18:50:40,225 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,225 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:40,226 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:40,226 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:40,226 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:40,226 - root - INFO - User requested to exit
+2024-03-10 18:50:40,227 - root - INFO - Logging configured.
+2024-03-10 18:50:40,227 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,228 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:40,228 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:40,228 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:40,228 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:40,228 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:50:40,228 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:40,228 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:40,228 - root - INFO - User requested to exit
+2024-03-10 18:50:40,229 - root - INFO - Logging configured.
+2024-03-10 18:50:40,229 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,230 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:40,230 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:40,230 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:40,230 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:40,231 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:50:40,231 - root - INFO - User requested to exit
+2024-03-10 18:50:40,233 - root - INFO - Logging configured.
+2024-03-10 18:50:40,233 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,233 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,234 - root - INFO - Logging configured.
+2024-03-10 18:50:40,235 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,257 - root - INFO - Logging configured.
+2024-03-10 18:50:40,257 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,257 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:40,257 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:40,257 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:40,257 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:40,257 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:50:40,257 - root - INFO - User requested to exit
+2024-03-10 18:50:40,259 - root - INFO - Logging configured.
+2024-03-10 18:50:40,260 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,260 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:40,260 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:40,260 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:40,260 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:40,260 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:50:40,260 - root - INFO - User requested to exit
+2024-03-10 18:50:40,262 - root - INFO - Logging configured.
+2024-03-10 18:50:40,262 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,262 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:40,262 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:40,262 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:40,262 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:40,263 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:50:40,263 - root - INFO - User requested to exit
+2024-03-10 18:50:40,264 - root - INFO - Logging configured.
+2024-03-10 18:50:40,265 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:40,265 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:40,265 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:40,265 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:40,265 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:40,265 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:50:40,265 - root - INFO - User requested to exit
+2024-03-10 18:50:43,274 - root - INFO - Logging configured.
+2024-03-10 18:50:43,274 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,275 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:43,275 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:43,275 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:43,275 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:43,275 - root - INFO - User requested to exit
+2024-03-10 18:50:43,277 - root - INFO - Logging configured.
+2024-03-10 18:50:43,278 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,278 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:43,278 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:43,278 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:43,278 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:43,278 - root - WARNING - invalid input format from user not_valid
+2024-03-10 18:50:43,278 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:43,279 - root - WARNING - invalid input format from user 2
+2024-03-10 18:50:43,279 - root - INFO - User requested to exit
+2024-03-10 18:50:43,280 - root - INFO - Logging configured.
+2024-03-10 18:50:43,281 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,281 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:43,281 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:43,281 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:43,281 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:43,281 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 18:50:43,282 - root - INFO - User requested to exit
+2024-03-10 18:50:43,283 - root - INFO - Logging configured.
+2024-03-10 18:50:43,283 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,283 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,285 - root - INFO - Logging configured.
+2024-03-10 18:50:43,285 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,311 - root - INFO - Logging configured.
+2024-03-10 18:50:43,311 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,311 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:43,311 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:43,311 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:43,312 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:43,312 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 18:50:43,312 - root - INFO - User requested to exit
+2024-03-10 18:50:43,315 - root - INFO - Logging configured.
+2024-03-10 18:50:43,315 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,316 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:43,316 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:43,316 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:43,316 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:43,316 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 18:50:43,316 - root - INFO - User requested to exit
+2024-03-10 18:50:43,320 - root - INFO - Logging configured.
+2024-03-10 18:50:43,321 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,321 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:43,321 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:43,321 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:43,321 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:43,321 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 18:50:43,321 - root - INFO - User requested to exit
+2024-03-10 18:50:43,324 - root - INFO - Logging configured.
+2024-03-10 18:50:43,324 - root - INFO - Environment variables loaded.
+2024-03-10 18:50:43,324 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 18:50:43,324 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 18:50:43,324 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 18:50:43,324 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 18:50:43,325 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 18:50:43,325 - root - INFO - User requested to exit
+2024-03-10 19:19:56,707 - root - INFO - Logging configured.
+2024-03-10 19:19:56,708 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,708 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:19:56,708 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:19:56,708 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:19:56,708 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:19:56,708 - root - INFO - User requested to exit
+2024-03-10 19:19:56,709 - root - INFO - Logging configured.
+2024-03-10 19:19:56,710 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,710 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:19:56,710 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:19:56,710 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:19:56,710 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:19:56,710 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:19:56,710 - root - WARNING - invalid input format from user 2
+2024-03-10 19:19:56,710 - root - WARNING - invalid input format from user 2
+2024-03-10 19:19:56,710 - root - INFO - User requested to exit
+2024-03-10 19:19:56,711 - root - INFO - Logging configured.
+2024-03-10 19:19:56,711 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,711 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:19:56,712 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:19:56,712 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:19:56,712 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:19:56,712 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:19:56,712 - root - INFO - User requested to exit
+2024-03-10 19:19:56,714 - root - INFO - Logging configured.
+2024-03-10 19:19:56,714 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,715 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,716 - root - INFO - Logging configured.
+2024-03-10 19:19:56,716 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,717 - root - INFO - Logging configured.
+2024-03-10 19:19:56,717 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,717 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:19:56,736 - root - INFO - Logging configured.
+2024-03-10 19:19:56,736 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,736 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:19:56,806 - root - INFO - Logging configured.
+2024-03-10 19:19:56,806 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,806 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:19:56,807 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:19:56,807 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:19:56,807 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:19:56,807 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:19:56,807 - root - INFO - User requested to exit
+2024-03-10 19:19:56,808 - root - INFO - Logging configured.
+2024-03-10 19:19:56,808 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,808 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:19:56,808 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:19:56,808 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:19:56,809 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:19:56,809 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:19:56,809 - root - INFO - User requested to exit
+2024-03-10 19:19:56,810 - root - INFO - Logging configured.
+2024-03-10 19:19:56,811 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,811 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:19:56,811 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:19:56,811 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:19:56,811 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:19:56,811 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:19:56,811 - root - INFO - User requested to exit
+2024-03-10 19:19:56,813 - root - INFO - Logging configured.
+2024-03-10 19:19:56,813 - root - INFO - Environment variables loaded.
+2024-03-10 19:19:56,813 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:19:56,814 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:19:56,814 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:19:56,814 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:19:56,814 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:19:56,814 - root - INFO - User requested to exit
+2024-03-10 19:22:33,663 - root - INFO - Logging configured.
+2024-03-10 19:22:33,663 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,664 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:33,664 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:33,664 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:33,664 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:33,664 - root - INFO - User requested to exit
+2024-03-10 19:22:33,665 - root - INFO - Logging configured.
+2024-03-10 19:22:33,665 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,666 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:33,666 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:33,666 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:33,666 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:33,666 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:22:33,666 - root - WARNING - invalid input format from user 2
+2024-03-10 19:22:33,666 - root - WARNING - invalid input format from user 2
+2024-03-10 19:22:33,666 - root - INFO - User requested to exit
+2024-03-10 19:22:33,667 - root - INFO - Logging configured.
+2024-03-10 19:22:33,668 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,668 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:33,668 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:33,668 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:33,668 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:33,668 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:22:33,668 - root - INFO - User requested to exit
+2024-03-10 19:22:33,669 - root - INFO - Logging configured.
+2024-03-10 19:22:33,669 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,669 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,670 - root - INFO - Logging configured.
+2024-03-10 19:22:33,671 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,672 - root - INFO - Logging configured.
+2024-03-10 19:22:33,672 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,672 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:22:33,691 - root - INFO - Logging configured.
+2024-03-10 19:22:33,691 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,692 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:22:33,747 - root - INFO - Logging configured.
+2024-03-10 19:22:33,748 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,748 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:33,748 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:33,748 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:33,748 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:33,748 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:22:33,748 - root - INFO - User requested to exit
+2024-03-10 19:22:33,750 - root - INFO - Logging configured.
+2024-03-10 19:22:33,751 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,751 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:33,752 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:33,752 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:33,752 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:33,752 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:22:33,752 - root - INFO - User requested to exit
+2024-03-10 19:22:33,755 - root - INFO - Logging configured.
+2024-03-10 19:22:33,757 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,757 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:33,757 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:33,757 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:33,757 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:33,757 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:22:33,757 - root - INFO - User requested to exit
+2024-03-10 19:22:33,759 - root - INFO - Logging configured.
+2024-03-10 19:22:33,759 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:33,759 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:33,759 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:33,759 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:33,759 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:33,760 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:22:33,760 - root - INFO - User requested to exit
+2024-03-10 19:22:44,909 - root - INFO - Logging configured.
+2024-03-10 19:22:44,909 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,909 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:44,910 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:44,910 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:44,910 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:44,910 - root - INFO - User requested to exit
+2024-03-10 19:22:44,911 - root - INFO - Logging configured.
+2024-03-10 19:22:44,911 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,912 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:44,912 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:44,912 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:44,912 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:44,912 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:22:44,912 - root - WARNING - invalid input format from user 2
+2024-03-10 19:22:44,912 - root - WARNING - invalid input format from user 2
+2024-03-10 19:22:44,912 - root - INFO - User requested to exit
+2024-03-10 19:22:44,913 - root - INFO - Logging configured.
+2024-03-10 19:22:44,913 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,913 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:44,913 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:44,913 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:44,913 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:44,913 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:22:44,913 - root - INFO - User requested to exit
+2024-03-10 19:22:44,915 - root - INFO - Logging configured.
+2024-03-10 19:22:44,915 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,915 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,916 - root - INFO - Logging configured.
+2024-03-10 19:22:44,916 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,917 - root - INFO - Logging configured.
+2024-03-10 19:22:44,917 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,917 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:22:44,934 - root - INFO - Logging configured.
+2024-03-10 19:22:44,934 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,934 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:22:44,998 - root - INFO - Logging configured.
+2024-03-10 19:22:44,998 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:44,999 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:44,999 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:44,999 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:45,000 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:45,000 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:22:45,000 - root - INFO - User requested to exit
+2024-03-10 19:22:45,002 - root - INFO - Logging configured.
+2024-03-10 19:22:45,003 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:45,003 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:45,003 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:45,003 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:45,003 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:45,003 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:22:45,003 - root - INFO - User requested to exit
+2024-03-10 19:22:45,006 - root - INFO - Logging configured.
+2024-03-10 19:22:45,007 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:45,007 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:45,007 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:45,007 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:45,007 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:45,007 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:22:45,007 - root - INFO - User requested to exit
+2024-03-10 19:22:45,009 - root - INFO - Logging configured.
+2024-03-10 19:22:45,009 - root - INFO - Environment variables loaded.
+2024-03-10 19:22:45,009 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:22:45,009 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:22:45,009 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:22:45,009 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:22:45,009 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:22:45,009 - root - INFO - User requested to exit
+2024-03-10 19:23:46,007 - root - INFO - Logging configured.
+2024-03-10 19:23:46,008 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,008 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:23:46,008 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:23:46,008 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:23:46,008 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:23:46,008 - root - INFO - User requested to exit
+2024-03-10 19:23:46,009 - root - INFO - Logging configured.
+2024-03-10 19:23:46,010 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,010 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:23:46,010 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:23:46,010 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:23:46,010 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:23:46,010 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:23:46,010 - root - WARNING - invalid input format from user 2
+2024-03-10 19:23:46,010 - root - WARNING - invalid input format from user 2
+2024-03-10 19:23:46,010 - root - INFO - User requested to exit
+2024-03-10 19:23:46,012 - root - INFO - Logging configured.
+2024-03-10 19:23:46,012 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,012 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:23:46,012 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:23:46,012 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:23:46,012 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:23:46,012 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:23:46,012 - root - INFO - User requested to exit
+2024-03-10 19:23:46,013 - root - INFO - Logging configured.
+2024-03-10 19:23:46,014 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,014 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,015 - root - INFO - Logging configured.
+2024-03-10 19:23:46,015 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,016 - root - INFO - Logging configured.
+2024-03-10 19:23:46,017 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,017 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:23:46,036 - root - INFO - Logging configured.
+2024-03-10 19:23:46,037 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,037 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:23:46,100 - root - INFO - Logging configured.
+2024-03-10 19:23:46,100 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,100 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:23:46,100 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:23:46,100 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:23:46,100 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:23:46,100 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:23:46,101 - root - INFO - User requested to exit
+2024-03-10 19:23:46,102 - root - INFO - Logging configured.
+2024-03-10 19:23:46,103 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,103 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:23:46,103 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:23:46,103 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:23:46,103 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:23:46,103 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:23:46,103 - root - INFO - User requested to exit
+2024-03-10 19:23:46,105 - root - INFO - Logging configured.
+2024-03-10 19:23:46,105 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,106 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:23:46,106 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:23:46,106 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:23:46,106 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:23:46,106 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:23:46,106 - root - INFO - User requested to exit
+2024-03-10 19:23:46,108 - root - INFO - Logging configured.
+2024-03-10 19:23:46,108 - root - INFO - Environment variables loaded.
+2024-03-10 19:23:46,109 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:23:46,109 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:23:46,109 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:23:46,109 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:23:46,109 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:23:46,109 - root - INFO - User requested to exit
+2024-03-10 19:24:49,699 - root - INFO - Logging configured.
+2024-03-10 19:24:49,700 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,700 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:24:49,700 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:24:49,700 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:24:49,700 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:24:49,700 - root - INFO - User requested to exit
+2024-03-10 19:24:49,703 - root - INFO - Logging configured.
+2024-03-10 19:24:49,703 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,703 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:24:49,703 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:24:49,704 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:24:49,704 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:24:49,704 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:24:49,704 - root - WARNING - invalid input format from user 2
+2024-03-10 19:24:49,704 - root - WARNING - invalid input format from user 2
+2024-03-10 19:24:49,704 - root - INFO - User requested to exit
+2024-03-10 19:24:49,706 - root - INFO - Logging configured.
+2024-03-10 19:24:49,706 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,706 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:24:49,706 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:24:49,706 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:24:49,706 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:24:49,706 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:24:49,707 - root - INFO - User requested to exit
+2024-03-10 19:24:49,708 - root - INFO - Logging configured.
+2024-03-10 19:24:49,708 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,708 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,709 - root - INFO - Logging configured.
+2024-03-10 19:24:49,709 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,711 - root - INFO - Logging configured.
+2024-03-10 19:24:49,711 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,711 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:24:49,732 - root - INFO - Logging configured.
+2024-03-10 19:24:49,732 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,732 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:24:49,801 - root - INFO - Logging configured.
+2024-03-10 19:24:49,801 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,801 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:24:49,801 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:24:49,801 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:24:49,801 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:24:49,801 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:24:49,801 - root - INFO - User requested to exit
+2024-03-10 19:24:49,803 - root - INFO - Logging configured.
+2024-03-10 19:24:49,803 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,803 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:24:49,803 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:24:49,803 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:24:49,803 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:24:49,804 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:24:49,804 - root - INFO - User requested to exit
+2024-03-10 19:24:49,805 - root - INFO - Logging configured.
+2024-03-10 19:24:49,805 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,806 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:24:49,806 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:24:49,806 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:24:49,806 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:24:49,806 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:24:49,806 - root - INFO - User requested to exit
+2024-03-10 19:24:49,807 - root - INFO - Logging configured.
+2024-03-10 19:24:49,808 - root - INFO - Environment variables loaded.
+2024-03-10 19:24:49,808 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:24:49,808 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:24:49,808 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:24:49,808 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:24:49,808 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:24:49,808 - root - INFO - User requested to exit
+2024-03-10 19:26:25,436 - root - INFO - Logging configured.
+2024-03-10 19:26:25,437 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,437 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:25,437 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:25,437 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:25,437 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:25,437 - root - INFO - User requested to exit
+2024-03-10 19:26:25,438 - root - INFO - Logging configured.
+2024-03-10 19:26:25,439 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,439 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:25,439 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:25,439 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:25,439 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:25,439 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:26:25,440 - root - WARNING - invalid input format from user 2
+2024-03-10 19:26:25,440 - root - WARNING - invalid input format from user 2
+2024-03-10 19:26:25,440 - root - INFO - User requested to exit
+2024-03-10 19:26:25,442 - root - INFO - Logging configured.
+2024-03-10 19:26:25,442 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,442 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:25,442 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:25,442 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:25,442 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:25,442 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:26:25,442 - root - INFO - User requested to exit
+2024-03-10 19:26:25,444 - root - INFO - Logging configured.
+2024-03-10 19:26:25,445 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,445 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,446 - root - INFO - Logging configured.
+2024-03-10 19:26:25,446 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,447 - root - INFO - Logging configured.
+2024-03-10 19:26:25,448 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,448 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:26:25,466 - root - INFO - Logging configured.
+2024-03-10 19:26:25,466 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,467 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:26:25,528 - root - INFO - Logging configured.
+2024-03-10 19:26:25,528 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,528 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:25,528 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:25,528 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:25,528 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:25,528 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:26:25,528 - root - INFO - User requested to exit
+2024-03-10 19:26:25,529 - root - INFO - Logging configured.
+2024-03-10 19:26:25,530 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,530 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:25,530 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:25,530 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:25,530 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:25,530 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:26:25,530 - root - INFO - User requested to exit
+2024-03-10 19:26:25,531 - root - INFO - Logging configured.
+2024-03-10 19:26:25,531 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,531 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:25,532 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:25,532 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:25,532 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:25,532 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:26:25,532 - root - INFO - User requested to exit
+2024-03-10 19:26:25,533 - root - INFO - Logging configured.
+2024-03-10 19:26:25,533 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:25,534 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:25,534 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:25,535 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:25,535 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:25,535 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:26:25,535 - root - INFO - User requested to exit
+2024-03-10 19:26:58,743 - root - INFO - Logging configured.
+2024-03-10 19:26:58,744 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,744 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:58,744 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:58,744 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:58,744 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:58,744 - root - INFO - User requested to exit
+2024-03-10 19:26:58,746 - root - INFO - Logging configured.
+2024-03-10 19:26:58,747 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,747 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:58,747 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:58,747 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:58,747 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:58,747 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:26:58,747 - root - WARNING - invalid input format from user 2
+2024-03-10 19:26:58,747 - root - WARNING - invalid input format from user 2
+2024-03-10 19:26:58,747 - root - INFO - User requested to exit
+2024-03-10 19:26:58,749 - root - INFO - Logging configured.
+2024-03-10 19:26:58,749 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,749 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:58,749 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:58,750 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:58,750 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:58,750 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:26:58,750 - root - INFO - User requested to exit
+2024-03-10 19:26:58,751 - root - INFO - Logging configured.
+2024-03-10 19:26:58,751 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,752 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,752 - root - INFO - Logging configured.
+2024-03-10 19:26:58,753 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,754 - root - INFO - Logging configured.
+2024-03-10 19:26:58,754 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,754 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:26:58,774 - root - INFO - Logging configured.
+2024-03-10 19:26:58,774 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,774 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:26:58,840 - root - INFO - Logging configured.
+2024-03-10 19:26:58,841 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,841 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:58,841 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:58,841 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:58,841 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:58,841 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:26:58,841 - root - INFO - User requested to exit
+2024-03-10 19:26:58,842 - root - INFO - Logging configured.
+2024-03-10 19:26:58,843 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,843 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:58,843 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:58,843 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:58,843 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:58,843 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:26:58,843 - root - INFO - User requested to exit
+2024-03-10 19:26:58,844 - root - INFO - Logging configured.
+2024-03-10 19:26:58,844 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,845 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:58,845 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:58,845 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:58,845 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:58,845 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:26:58,845 - root - INFO - User requested to exit
+2024-03-10 19:26:58,846 - root - INFO - Logging configured.
+2024-03-10 19:26:58,847 - root - INFO - Environment variables loaded.
+2024-03-10 19:26:58,847 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:26:58,847 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:26:58,847 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:26:58,847 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:26:58,847 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:26:58,847 - root - INFO - User requested to exit
+2024-03-10 19:27:25,091 - root - INFO - Logging configured.
+2024-03-10 19:27:25,092 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,092 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:27:25,092 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:27:25,092 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:27:25,092 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:27:25,092 - root - INFO - User requested to exit
+2024-03-10 19:27:25,093 - root - INFO - Logging configured.
+2024-03-10 19:27:25,094 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,094 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:27:25,094 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:27:25,094 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:27:25,094 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:27:25,094 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:27:25,094 - root - WARNING - invalid input format from user 2
+2024-03-10 19:27:25,094 - root - WARNING - invalid input format from user 2
+2024-03-10 19:27:25,094 - root - INFO - User requested to exit
+2024-03-10 19:27:25,095 - root - INFO - Logging configured.
+2024-03-10 19:27:25,095 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,095 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:27:25,096 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:27:25,096 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:27:25,096 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:27:25,096 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:27:25,096 - root - INFO - User requested to exit
+2024-03-10 19:27:25,098 - root - INFO - Logging configured.
+2024-03-10 19:27:25,098 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,099 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,104 - root - INFO - Logging configured.
+2024-03-10 19:27:25,104 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,107 - root - INFO - Logging configured.
+2024-03-10 19:27:25,107 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,108 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:27:25,125 - root - INFO - Logging configured.
+2024-03-10 19:27:25,126 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,126 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:27:25,190 - root - INFO - Logging configured.
+2024-03-10 19:27:25,190 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,190 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:27:25,190 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:27:25,191 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:27:25,191 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:27:25,191 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:27:25,191 - root - INFO - User requested to exit
+2024-03-10 19:27:25,193 - root - INFO - Logging configured.
+2024-03-10 19:27:25,194 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,194 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:27:25,194 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:27:25,194 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:27:25,194 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:27:25,194 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:27:25,194 - root - INFO - User requested to exit
+2024-03-10 19:27:25,195 - root - INFO - Logging configured.
+2024-03-10 19:27:25,195 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,196 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:27:25,196 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:27:25,196 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:27:25,196 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:27:25,196 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:27:25,196 - root - INFO - User requested to exit
+2024-03-10 19:27:25,198 - root - INFO - Logging configured.
+2024-03-10 19:27:25,198 - root - INFO - Environment variables loaded.
+2024-03-10 19:27:25,199 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:27:25,199 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:27:25,199 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:27:25,199 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:27:25,199 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:27:25,199 - root - INFO - User requested to exit
+2024-03-10 19:28:48,151 - root - INFO - Logging configured.
+2024-03-10 19:28:48,151 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,151 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:28:48,151 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:28:48,151 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:28:48,151 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:28:48,151 - root - INFO - User requested to exit
+2024-03-10 19:28:48,153 - root - INFO - Logging configured.
+2024-03-10 19:28:48,153 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,153 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:28:48,153 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:28:48,153 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:28:48,153 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:28:48,153 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:28:48,153 - root - WARNING - invalid input format from user 2
+2024-03-10 19:28:48,153 - root - WARNING - invalid input format from user 2
+2024-03-10 19:28:48,153 - root - INFO - User requested to exit
+2024-03-10 19:28:48,155 - root - INFO - Logging configured.
+2024-03-10 19:28:48,155 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,155 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:28:48,155 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:28:48,155 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:28:48,155 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:28:48,155 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:28:48,155 - root - INFO - User requested to exit
+2024-03-10 19:28:48,156 - root - INFO - Logging configured.
+2024-03-10 19:28:48,156 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,156 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,158 - root - INFO - Logging configured.
+2024-03-10 19:28:48,158 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,159 - root - INFO - Logging configured.
+2024-03-10 19:28:48,159 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,159 - root - ERROR - Plugins directory 'app.plugins' not found.
+2024-03-10 19:28:48,180 - root - INFO - Logging configured.
+2024-03-10 19:28:48,180 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,180 - root - ERROR - Failed to import plugin 'mock_plugin': Mock import error
+2024-03-10 19:28:48,248 - root - INFO - Logging configured.
+2024-03-10 19:28:48,248 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,248 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:28:48,248 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:28:48,248 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:28:48,248 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:28:48,248 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:28:48,248 - root - INFO - User requested to exit
+2024-03-10 19:28:48,250 - root - INFO - Logging configured.
+2024-03-10 19:28:48,250 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,251 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:28:48,252 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:28:48,252 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:28:48,252 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:28:48,252 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:28:48,252 - root - INFO - User requested to exit
+2024-03-10 19:28:48,253 - root - INFO - Logging configured.
+2024-03-10 19:28:48,254 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,254 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:28:48,254 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:28:48,254 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:28:48,254 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:28:48,254 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:28:48,254 - root - INFO - User requested to exit
+2024-03-10 19:28:48,255 - root - INFO - Logging configured.
+2024-03-10 19:28:48,256 - root - INFO - Environment variables loaded.
+2024-03-10 19:28:48,256 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:28:48,256 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:28:48,256 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:28:48,256 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:28:48,256 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:28:48,256 - root - INFO - User requested to exit
+2024-03-10 19:29:27,490 - root - INFO - Logging configured.
+2024-03-10 19:29:27,490 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,491 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:27,491 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:27,491 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:27,491 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:27,491 - root - INFO - User requested to exit
+2024-03-10 19:29:27,493 - root - INFO - Logging configured.
+2024-03-10 19:29:27,493 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,493 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:27,493 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:27,493 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:27,493 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:27,493 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:29:27,493 - root - WARNING - invalid input format from user 2
+2024-03-10 19:29:27,493 - root - WARNING - invalid input format from user 2
+2024-03-10 19:29:27,493 - root - INFO - User requested to exit
+2024-03-10 19:29:27,496 - root - INFO - Logging configured.
+2024-03-10 19:29:27,496 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,496 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:27,496 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:27,496 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:27,496 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:27,496 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:29:27,496 - root - INFO - User requested to exit
+2024-03-10 19:29:27,498 - root - INFO - Logging configured.
+2024-03-10 19:29:27,499 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,499 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,500 - root - INFO - Logging configured.
+2024-03-10 19:29:27,501 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,519 - root - INFO - Logging configured.
+2024-03-10 19:29:27,520 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,520 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:27,520 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:27,520 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:27,521 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:27,521 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:29:27,521 - root - INFO - User requested to exit
+2024-03-10 19:29:27,524 - root - INFO - Logging configured.
+2024-03-10 19:29:27,524 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,524 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:27,524 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:27,524 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:27,524 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:27,524 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:29:27,525 - root - INFO - User requested to exit
+2024-03-10 19:29:27,526 - root - INFO - Logging configured.
+2024-03-10 19:29:27,526 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,526 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:27,526 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:27,526 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:27,526 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:27,526 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:29:27,526 - root - INFO - User requested to exit
+2024-03-10 19:29:27,528 - root - INFO - Logging configured.
+2024-03-10 19:29:27,528 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:27,528 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:27,528 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:27,528 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:27,528 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:27,528 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:29:27,528 - root - INFO - User requested to exit
+2024-03-10 19:29:56,555 - root - INFO - Logging configured.
+2024-03-10 19:29:56,556 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,556 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:56,556 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:56,556 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:56,556 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:56,556 - root - INFO - User requested to exit
+2024-03-10 19:29:56,558 - root - INFO - Logging configured.
+2024-03-10 19:29:56,558 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,558 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:56,558 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:56,558 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:56,558 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:56,558 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:29:56,558 - root - WARNING - invalid input format from user 2
+2024-03-10 19:29:56,558 - root - WARNING - invalid input format from user 2
+2024-03-10 19:29:56,558 - root - INFO - User requested to exit
+2024-03-10 19:29:56,560 - root - INFO - Logging configured.
+2024-03-10 19:29:56,560 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,560 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:56,560 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:56,560 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:56,560 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:56,560 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:29:56,560 - root - INFO - User requested to exit
+2024-03-10 19:29:56,561 - root - INFO - Logging configured.
+2024-03-10 19:29:56,562 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,562 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,563 - root - INFO - Logging configured.
+2024-03-10 19:29:56,563 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,586 - root - INFO - Logging configured.
+2024-03-10 19:29:56,586 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,586 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:56,586 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:56,586 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:56,587 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:56,587 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:29:56,587 - root - INFO - User requested to exit
+2024-03-10 19:29:56,588 - root - INFO - Logging configured.
+2024-03-10 19:29:56,588 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,589 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:56,589 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:56,589 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:56,589 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:56,589 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:29:56,589 - root - INFO - User requested to exit
+2024-03-10 19:29:56,591 - root - INFO - Logging configured.
+2024-03-10 19:29:56,591 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,592 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:56,592 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:56,592 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:56,592 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:56,592 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:29:56,592 - root - INFO - User requested to exit
+2024-03-10 19:29:56,594 - root - INFO - Logging configured.
+2024-03-10 19:29:56,594 - root - INFO - Environment variables loaded.
+2024-03-10 19:29:56,594 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:29:56,594 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:29:56,594 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:29:56,594 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:29:56,594 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:29:56,594 - root - INFO - User requested to exit
+2024-03-10 19:30:20,323 - root - INFO - Logging configured.
+2024-03-10 19:30:20,323 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,323 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:20,323 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:20,323 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:20,323 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:20,324 - root - INFO - User requested to exit
+2024-03-10 19:30:20,325 - root - INFO - Logging configured.
+2024-03-10 19:30:20,325 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,325 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:20,325 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:20,326 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:20,326 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:20,326 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:30:20,326 - root - WARNING - invalid input format from user 2
+2024-03-10 19:30:20,326 - root - WARNING - invalid input format from user 2
+2024-03-10 19:30:20,326 - root - INFO - User requested to exit
+2024-03-10 19:30:20,327 - root - INFO - Logging configured.
+2024-03-10 19:30:20,327 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,327 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:20,327 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:20,327 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:20,327 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:20,327 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:30:20,327 - root - INFO - User requested to exit
+2024-03-10 19:30:20,329 - root - INFO - Logging configured.
+2024-03-10 19:30:20,329 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,329 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,330 - root - INFO - Logging configured.
+2024-03-10 19:30:20,330 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,349 - root - INFO - Logging configured.
+2024-03-10 19:30:20,349 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,350 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:20,350 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:20,350 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:20,350 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:20,350 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:30:20,350 - root - INFO - User requested to exit
+2024-03-10 19:30:20,353 - root - INFO - Logging configured.
+2024-03-10 19:30:20,353 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,353 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:20,353 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:20,353 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:20,353 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:20,354 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:30:20,354 - root - INFO - User requested to exit
+2024-03-10 19:30:20,356 - root - INFO - Logging configured.
+2024-03-10 19:30:20,356 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,356 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:20,356 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:20,356 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:20,357 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:20,357 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:30:20,357 - root - INFO - User requested to exit
+2024-03-10 19:30:20,359 - root - INFO - Logging configured.
+2024-03-10 19:30:20,359 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:20,359 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:20,359 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:20,359 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:20,359 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:20,359 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:30:20,359 - root - INFO - User requested to exit
+2024-03-10 19:30:24,241 - root - INFO - Logging configured.
+2024-03-10 19:30:24,242 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,242 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:24,243 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:24,243 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:24,243 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:24,243 - root - INFO - User requested to exit
+2024-03-10 19:30:24,245 - root - INFO - Logging configured.
+2024-03-10 19:30:24,245 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,246 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:24,246 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:24,246 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:24,246 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:24,246 - root - WARNING - invalid input format from user not_valid
+2024-03-10 19:30:24,246 - root - WARNING - invalid input format from user 2
+2024-03-10 19:30:24,246 - root - WARNING - invalid input format from user 2
+2024-03-10 19:30:24,246 - root - INFO - User requested to exit
+2024-03-10 19:30:24,248 - root - INFO - Logging configured.
+2024-03-10 19:30:24,249 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,249 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:24,249 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:24,249 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:24,249 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:24,249 - root - WARNING - Attempt to divide by zero with operands 2.000000, 0.000000
+2024-03-10 19:30:24,250 - root - INFO - User requested to exit
+2024-03-10 19:30:24,252 - root - INFO - Logging configured.
+2024-03-10 19:30:24,252 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,252 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,254 - root - INFO - Logging configured.
+2024-03-10 19:30:24,254 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,280 - root - INFO - Logging configured.
+2024-03-10 19:30:24,281 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,281 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:24,281 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:24,281 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:24,281 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:24,282 - root - INFO - Executed command 'addition' with operands 2.000000, 2.000000 Result: 4.000000
+2024-03-10 19:30:24,282 - root - INFO - User requested to exit
+2024-03-10 19:30:24,284 - root - INFO - Logging configured.
+2024-03-10 19:30:24,284 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,284 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:24,285 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:24,285 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:24,285 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:24,285 - root - INFO - Executed command 'division' with operands 2.000000, 2.000000 Result: 1.000000
+2024-03-10 19:30:24,285 - root - INFO - User requested to exit
+2024-03-10 19:30:24,287 - root - INFO - Logging configured.
+2024-03-10 19:30:24,288 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,288 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:24,288 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:24,288 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:24,288 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:24,288 - root - INFO - Executed command 'multiplication' with operands 3.000000, 2.000000 Result: 6.000000
+2024-03-10 19:30:24,288 - root - INFO - User requested to exit
+2024-03-10 19:30:24,290 - root - INFO - Logging configured.
+2024-03-10 19:30:24,291 - root - INFO - Environment variables loaded.
+2024-03-10 19:30:24,291 - root - INFO - Successfully loaded plugin 'addition'
+2024-03-10 19:30:24,291 - root - INFO - Successfully loaded plugin 'division'
+2024-03-10 19:30:24,291 - root - INFO - Successfully loaded plugin 'multiplication'
+2024-03-10 19:30:24,291 - root - INFO - Successfully loaded plugin 'subtraction'
+2024-03-10 19:30:24,291 - root - INFO - Executed command 'subtraction' with operands 2.000000, 2.000000 Result: 0.000000
+2024-03-10 19:30:24,291 - root - INFO - User requested to exit

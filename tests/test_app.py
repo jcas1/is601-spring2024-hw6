@@ -38,3 +38,24 @@ def test_app_divide_by_zero(monkeypatch, capsys):
     captured = capsys.readouterr()
     print("Captured Output:", captured.out)
     assert "Cannot divide by zero!!!" in captured.out
+
+def test_load_environment_variable(monkeypatch):
+    '''testing to make sure the environment variables are loaded in'''
+    monkeypatch.setenv('ENVIRONMENT', 'TEST_ENVIRONMENT')
+    monkeypatch.setenv('DATABASE_USERNAME', 'test_user')
+
+    app = App()
+    settings = app.load_environment_variables()
+
+    assert 'ENVIRONMENT' in settings
+    assert settings['ENVIRONMENT'] == 'TEST_ENVIRONMENT'
+    assert 'DATABASE_USERNAME' in settings
+    assert settings['DATABASE_USERNAME'] == 'test_user'
+
+def test_app_get_environment_variable():
+    '''Testing the retrieval of environment variables'''
+    app = App()
+    #Retrieve the current environment setting
+    current_env = app.get_environment_variable('ENVIRONMENT')
+    #Assert that the current environment is what you expect
+    assert current_env in ['DEVELOPMENT', 'TESTING', 'PRODUCTION'], f"Invalid ENVIRONMENT: {current_env}"
