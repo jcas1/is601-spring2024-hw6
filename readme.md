@@ -1,5 +1,7 @@
-#Homework 5
+#Homework 6
 ##Project Install Instructions
+
+view logging branch to view changes for hw6
 
 1. Clone
 2. pip install -r requirements.txt
